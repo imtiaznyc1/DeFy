@@ -1,6 +1,6 @@
 # DeFy
 
-##HELLO USER:
+## HELLO USER:
 
 To run the app, ensure that you have the latest version of node js installed to have the following correct packages. Once node is in the system, run this command on terminal
 
