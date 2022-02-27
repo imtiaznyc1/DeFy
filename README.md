@@ -6,12 +6,9 @@
 **Built With:** Utilized React Native with expo cli command line 
 
 
-![LOGO](/assets/Defy.png)
-
-
-
-
 ## VIDEO WALKTHROUGH:
+
+
 
 
 ## ROADBLOCK OVERCAME:
@@ -34,3 +31,4 @@ Connect to Google Cloud Storage to track all confirmed smart contracts
 *Backend Software Engineer/Blockchain Specialist: Tahmeed Chowdhury, NYU
 
 
+![LOGO](/assets/Defy.png)
