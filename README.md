@@ -8,8 +8,8 @@
 
 ## [Video Walkthrough](https://www.youtube.com/watch?v=Qr_4GdOWhVU)
 ![LOGO](/assets/photo1.PNG)
-![LOGO](/assets/photo2.PNG)
 ![LOGO](/assets/photo3.PNG)
+![LOGO](/assets/photo2.PNG)
 ![LOGO](/assets/photo4.PNG)
 
 
