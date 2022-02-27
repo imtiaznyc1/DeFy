@@ -25,10 +25,10 @@ Connect to Google Cloud Storage to track all confirmed smart contracts
 
 ## Team:
 
-*UX/UI Designer: Dylan Pangilinan, NYU
-*Product Manager/ReactJS Developer: Dipu Chowdhury, NYU
-*Full Stack Software Engineer/Cloud Specialist: Imtiaz Rahman, Hunter (Daedalus Program)
-*Backend Software Engineer/Blockchain Specialist: Tahmeed Chowdhury, NYU
+- UX/UI Designer: Dylan Pangilinan, NYU
+- Product Manager/ReactJS Developer: Dipu Chowdhury, NYU
+- Full Stack Software Engineer/Cloud Specialist: Imtiaz Rahman, Hunter (Daedalus Program)
+- Backend Software Engineer/Blockchain Specialist: Tahmeed Chowdhury, NYU
 
 
 ![LOGO](/assets/Defy.png)
