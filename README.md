@@ -7,7 +7,7 @@
 
 
 ## [Video Walkthrough](https://www.youtube.com/watch?v=Qr_4GdOWhVU)
-
+![LOGO](/assets/photo1.PNG)
 
 
 
