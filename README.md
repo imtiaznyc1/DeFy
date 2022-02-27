@@ -1,7 +1,7 @@
 # DeFy
 ![LOGO](/assets/Defy.png)
 
-## ABOUT:
+** ABOUT **:
 
 
 ## SOFTWARE APPLICATION STRUCTURE:
