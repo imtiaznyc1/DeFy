@@ -1,10 +1,10 @@
 import * as React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import { creatNativeStackNavigator} from '@react-navigation/native-stack'
+import { createNativeStackNavigator} from '@react-navigation/native-stack'
 import {HomeScreen} from home.js
 
 const Stack = createNativeStackNavigator();
-
+//i am alive
 const MyStack = () => {
     return (
         <NavigationContainer>
