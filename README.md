@@ -1,5 +1,37 @@
 # DeFy
 ![LOGO](/assets/Defy.png)
+
+## ABOUT:
+
+
+## SOFTWARE APPLICATION STRUCTURE:
+
+Utilized React Native with expo cli command line 
+
+
+## VIDEO WALKTHROUGH:
+
+
+## ROADBLOCK OVERCAME:
+
+Given the vastness of our project scope from encompassing chat features to loan requests, it was hard to find the most efficient way to compartmentalize the various app pages and components of the React framework to allow for a smooth flow of triggered events. Alongside the scope of our project, finding an abundant resource of information in regards to connecting our application to blockchain technology and google cloud was non-existent.
+
+
+## IF WE HAD MORE TIME:
+
+Incorporate Hedera Hashgraph to make it easier for users to transfer and view total balance of tokens.
+Host ReactJS app on Google Cloud App Engine so that it may be able to scale fast
+Connect to Google Cloud Storage to track all confirmed smart contracts 
+
+
+## TEAM:
+
+UX/UI Designer: Dylan Pangilinan, NYU
+Product Manager/ReactJS Developer: Dipu Chowdhury, NYU
+Full Stack Software Engineer/Cloud Specialist: Imtiaz Rahman, Hunter (Daedalus Program)
+Backend Software Engineer/Blockchain Specialist: Tahmeed Chowdhury, NYU
+
+
 ## HELLO USER!
 
 Welcome to DeFy bAnK, a decentralized form of managing and obtaining wealth. In a world of restricted 
