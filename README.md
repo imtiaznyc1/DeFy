@@ -11,7 +11,7 @@
 
 
 
-## Roadbloocks OVercame:
+## Roadblocks Overcame:
 
 Given the vastness of our project scope from encompassing chat features to loan requests, it was hard to find the most efficient way to compartmentalize the various app pages and components of the React framework to allow for a smooth flow of triggered events. Alongside the scope of our project, finding an abundant resource of information in regards to connecting our application to blockchain technology and google cloud was non-existent.
 
