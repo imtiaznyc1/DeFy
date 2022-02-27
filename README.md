@@ -2,6 +2,7 @@
 ![LOGO](/assets/Defy.png)
 
 ** ABOUT **:
+**This is bold text**
 
 
 ## SOFTWARE APPLICATION STRUCTURE:
