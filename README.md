@@ -6,7 +6,7 @@
 **Built With:** Utilized React Native with expo cli command line 
 
 
-## [Video Walkthrough](https://www.youtube.com/watch?v=Qr_4GdOWhVU)
+## [Video Walkthrough]((https://www.youtube.com/watch?v=SXXdf7BYZLM)
 ![LOGO](/assets/photo1.PNG)
 ![LOGO](/assets/photo3.PNG)
 ![LOGO](/assets/photo2.PNG)
