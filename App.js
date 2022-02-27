@@ -4,6 +4,7 @@ import * as React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator} from '@react-navigation/native-stack'
 import HomeScreen from './home'
+import InvestmentScreen from './investment'
 
 export default function App() {
  
@@ -14,6 +15,7 @@ export default function App() {
       //</View>
       <View>
         <HomeScreen />
+        <InvestmentScreen />
       </View>
       
     );
