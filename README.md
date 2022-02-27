@@ -3,7 +3,7 @@
 
 **About:** Use blockchain technology to allow for “unbanked” users to be able to have an app on their phone to track their investments. Defy also allows for users to speak with advisors to receive financial assistance and take out loans even without having a credit score.
 
-**SOFTWARE APPLICATION STRUCTURE:** Utilized React Native with expo cli command line 
+**Built With:** Utilized React Native with expo cli command line 
 
 
 ![LOGO](/assets/Defy.png)
@@ -33,16 +33,4 @@ Connect to Google Cloud Storage to track all confirmed smart contracts
 *Full Stack Software Engineer/Cloud Specialist: Imtiaz Rahman, Hunter (Daedalus Program)
 *Backend Software Engineer/Blockchain Specialist: Tahmeed Chowdhury, NYU
 
-
-## HELLO USER!
-
-Welcome to DeFy bAnK, a decentralized form of managing and obtaining wealth. In a world of restricted 
-
-To run the app, ensure that you have the latest version of node js installed to have the following correct packages. Once node is in the system, run this command on terminal
-
-**npm install -g expo-cli**
-
-Ready? Awesome! Now to let the magic begin simply cd into the project and run:
-
-**npm start** (or expo start)
 
