@@ -6,24 +6,24 @@
 **Built With:** Utilized React Native with expo cli command line 
 
 
-## Video Walkthrough:
+## [Video Walkthrough](https://www.youtube.com/watch?v=Qr_4GdOWhVU)
 
 
 
 
-## Roadblocks Overcame:
+## Roadblocks Overcame
 
 Given the vastness of our project scope from encompassing chat features to loan requests, it was hard to find the most efficient way to compartmentalize the various app pages and components of the React framework to allow for a smooth flow of triggered events. Alongside the scope of our project, finding an abundant resource of information in regards to connecting our application to blockchain technology and google cloud was non-existent.
 
 
-## If we had more time:
+## If we had more time
 
 Incorporate Hedera Hashgraph to make it easier for users to transfer and view total balance of tokens.
 Host ReactJS app on Google Cloud App Engine so that it may be able to scale fast
 Connect to Google Cloud Storage to track all confirmed smart contracts 
 
 
-## Team:
+## Team
 
 - UX/UI Designer: Dylan Pangilinan, NYU
 - Product Manager/ReactJS Developer: Dipu Chowdhury, NYU
