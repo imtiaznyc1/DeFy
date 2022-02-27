@@ -1,10 +1,14 @@
+## DeFy
+
+
+**About:** Use blockchain technology to allow for “unbanked” users to be able to have an app on their phone to track their investments. Defy also allows for users to speak with advisors to receive financial assistance and take out loans even without having a credit score.
+
+**SOFTWARE APPLICATION STRUCTURE:** Utilized React Native with expo cli command line 
+
+
 ![LOGO](/assets/Defy.png)
 
-## DeFy
-**About:**Use blockchain technology to allow for “unbanked” users to be able to have an app on their phone to track their investments. Defy also allows for users to speak with advisors to receive financial assistance and take out loans even without having a credit score.
 
-
-**SOFTWARE APPLICATION STRUCTURE:**Utilized React Native with expo cli command line 
 
 
 ## VIDEO WALKTHROUGH:
